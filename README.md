@@ -2,7 +2,7 @@ How it works: An optical cavity and beam splitter generates thermal photon gas v
 
 Steps to implement:
 
-Prepare the gas cell: Fill a sealed tube (e.g., 1-2 m long) with low-pressure gas (~1-10 Torr) like N₂O.
+Prepare the gas cell: Fill a sealed tube (e.g., 1-2 m long) with low-pressure gas, N₂O.
 
 Pump with thermal photon gas: heat with pulsed or continuous infrared packets from a heating element into the gas to excite molecular rotations.
 
